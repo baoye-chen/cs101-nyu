@@ -1,0 +1,363 @@
+baoyechen@BaoyedeMacBook-Air BaoyeChen_hw3_submission % java Course
+------------------------------
+Professor name: John
+The Professor is teaching 3 classes:
+cs101
+cs102
+cs103
+------------------------------
+
+------------------------------
+Professor name: Jane
+The Professor is teaching 1 classes:
+cs104
+------------------------------
+
+******************************
+Courese Title: cs101
+Instructor: John
+Class size: 58
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+Student 7
+Student 8
+Student 9
+Student 10
+Student 11
+Student 12
+Student 13
+Student 14
+Student 15
+Student 16
+Student 17
+Student 18
+Student 19
+Student 20
+Student 21
+Student 22
+Student 23
+Student 24
+Student 25
+Student 26
+Student 27
+Student 28
+Student 29
+Student 30
+Student 31
+Student 32
+Student 33
+Student 34
+Student 35
+Student 36
+Student 37
+Student 38
+Student 39
+Student 40
+Student 41
+Student 42
+Student 43
+Student 44
+Student 45
+Student 46
+Student 47
+Student 48
+Student 49
+Student 50
+Student 51
+Student 52
+Student 53
+Student 54
+Student 55
+Student 56
+Student 57
+Student 58
+******************************
+
+******************************
+Courese Title: cs102
+Instructor: John
+Class size: 6
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+******************************
+
+******************************
+Courese Title: cs103
+Instructor: John
+Class size: 6
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+******************************
+
+******************************
+Courese Title: cs104
+Instructor: Jane
+Class size: 6
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+******************************
+
+Try to add two students to cs101
+add1 is added to cs101
+add2 is added to cs101
+New course information: 
+******************************
+Courese Title: cs101
+Instructor: John
+Class size: 60
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+Student 7
+Student 8
+Student 9
+Student 10
+Student 11
+Student 12
+Student 13
+Student 14
+Student 15
+Student 16
+Student 17
+Student 18
+Student 19
+Student 20
+Student 21
+Student 22
+Student 23
+Student 24
+Student 25
+Student 26
+Student 27
+Student 28
+Student 29
+Student 30
+Student 31
+Student 32
+Student 33
+Student 34
+Student 35
+Student 36
+Student 37
+Student 38
+Student 39
+Student 40
+Student 41
+Student 42
+Student 43
+Student 44
+Student 45
+Student 46
+Student 47
+Student 48
+Student 49
+Student 50
+Student 51
+Student 52
+Student 53
+Student 54
+Student 55
+Student 56
+Student 57
+Student 58
+add1
+add2
+******************************
+We see they are added successfully
+
+Try add another student to cs101
+The class is full!
+New course information: 
+******************************
+Courese Title: cs101
+Instructor: John
+Class size: 60
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+Student 7
+Student 8
+Student 9
+Student 10
+Student 11
+Student 12
+Student 13
+Student 14
+Student 15
+Student 16
+Student 17
+Student 18
+Student 19
+Student 20
+Student 21
+Student 22
+Student 23
+Student 24
+Student 25
+Student 26
+Student 27
+Student 28
+Student 29
+Student 30
+Student 31
+Student 32
+Student 33
+Student 34
+Student 35
+Student 36
+Student 37
+Student 38
+Student 39
+Student 40
+Student 41
+Student 42
+Student 43
+Student 44
+Student 45
+Student 46
+Student 47
+Student 48
+Student 49
+Student 50
+Student 51
+Student 52
+Student 53
+Student 54
+Student 55
+Student 56
+Student 57
+Student 58
+add1
+add2
+******************************
+We cannot do that since the class is full
+
+Try to remove a student from cs102
+This student is not erolled in the course!
+New course information: 
+******************************
+Courese Title: cs102
+Instructor: John
+Class size: 6
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+******************************
+We see the student is successfully removed
+
+Try to remove another student from cs102
+This student is not erolled in the course!
+New course information: 
+******************************
+Courese Title: cs102
+Instructor: John
+Class size: 6
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+******************************
+No one is removed this time because we've set that a class must have at lest 5 students
+
+Now, try to remove a student who's not enrolled in cs103.
+The student is: Josh
+This student is not erolled in the course!
+New course information: 
+******************************
+Courese Title: cs103
+Instructor: John
+Class size: 6
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+******************************
+So we can see nothing's changed
+
+Try to let John teach cs104 as well
+A professor can only teach 3 classes!
+******************************
+Courese Title: cs104
+Instructor: Jane
+Class size: 6
+The student list: 
+Student 1
+Student 2
+Student 3
+Student 4
+Student 5
+Student 6
+******************************
+We see we cannot do that since John is already teaching 3 classes!
+
+------------------------------
+Professor name: John
+The Professor is teaching 3 classes:
+cs101
+cs102
+cs103
+------------------------------
+
+------------------------------
+Professor name: Jane
+The Professor is teaching 1 classes:
+cs104
+------------------------------
+We can see nothing is changed. They are still teaching the same classes.
+
+Let Jane teach cs102, and then try assign John to cs104
+
+------------------------------
+Professor name: John
+The Professor is teaching 3 classes:
+cs101
+cs103
+cs104
+------------------------------
+
+------------------------------
+Professor name: Jane
+The Professor is teaching 1 classes:
+cs102
+------------------------------
+
+So we can see it changes as we expected.
+baoyechen@BaoyedeMacBook-Air BaoyeChen_hw3_submission % 

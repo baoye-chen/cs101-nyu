@@ -1,0 +1,33 @@
+baoyechen@BaoyedeMacBook-Air cs101_hw2 % java InfinitArray
+Insert numbers (terminate with negative number):
+1
+3
+2
+4.3
+1
+2.5
+33.33
+1009.23
+33.4
+22.1
+33.4
+15.29
+-1
+
+
+Their average is 96.71250000000002
+Their min/max is 1.0/1009.23
+Their standard deviation is 275.4404720965131
+Their median is 9.795
+baoyechen@BaoyedeMacBook-Air cs101_hw2 % java InfinitArray
+Insert numbers (terminate with negative number):
+-1
+
+
+Their average is 0.0
+Their min/max is 0.0/0.0
+Their standard deviation is 0.0
+Their median is 0.0
+baoyechen@BaoyedeMacBook-Air cs101_hw2 %  
+
+

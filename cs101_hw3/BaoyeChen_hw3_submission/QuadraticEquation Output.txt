@@ -1,0 +1,48 @@
+baoyechen@BaoyedeMacBook-Air BaoyeChen_hw3_submission % java QuadraticEquation
+noSolution: f(x) = 1.0x^2 + 1.0x + 2.0
+Is noSolution quadratic? true
+Does noSolution have real solution? false
+Does noSolution have duplicate solution? false
+Discriminant = -7.0
+The solution to this equation is: x1 = NaN
+The solution to this equation is: x2 = NaN
+
+oneSolution: f(x) = 1.0x^2 + 2.0x + 1.0
+Is oneSolution quadratic? true
+Does oneSolution have real solution? true
+Does oneSolution have duplicate solution? true
+Discriminant = 0.0
+The solution to this equation is: x1 = -1.0
+The solution to this equation is: x2 = -1.0
+
+twoSolution: f(x) = 1.0x^2 + 2.0x + -8.0
+Is twoSolution quadratic? true
+Does twoSolution have real solution? true
+Does twoSolution have duplicate solution? false
+Discriminant = 36.0
+The solution to this equation is: x1 = 2.0
+The solution to this equation is: x2 = -4.0
+
+notQuadratic: f(x) = 0.0x^2 + 1.0x + 2.0
+Is notQuadratic quadratic? false
+Does notQuadratic have real solution? true
+Does notQuadratic have duplicate solution? false
+baoyechen@BaoyedeMacBook-Air BaoyeChen_hw3_submission % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

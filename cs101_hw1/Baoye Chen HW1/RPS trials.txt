@@ -1,0 +1,229 @@
+Last login: Thu Oct  8 21:38:53 on ttys001
+baoyechen@BaoyedeMacBook-Air ~ % cd /Users/baoyechen/Desktop/cs101/cs101_hw1
+baoyechen@BaoyedeMacBook-Air cs101_hw1 % javac RPS.java
+baoyechen@BaoyedeMacBook-Air cs101_hw1 % java RPS
+=========================================
+Welcome to the Rock-Paper-Scissors game!
+=========================================
+
+Select your element:
+		R/r - rock
+		P/p - paper
+		S/s - scissors
+R
+ __.--.--._
+/  | _|  | `|
+|  |` |  |  |
+| /’--:--:__/
+|/  /      |
+(  ’ \     |
+ \    `.  /
+  |      |
+  |      |
+ 
+Player
+    --.--.
+   |  |  |
+.""|  |  |_
+|  |  |  | `|
+|  | _|  |  |
+|  |` )  |  |
+| /’  /     /
+|/   /      |
+(   ’ \     |
+\      `.  /
+ |        |
+ |        |
+
+Computer
+Computer Won. (paper beats rock)
+baoyechen@BaoyedeMacBook-Air cs101_hw1 % java RPS
+=========================================
+Welcome to the Rock-Paper-Scissors game!
+=========================================
+
+Select your element:
+		R/r - rock
+		P/p - paper
+		S/s - scissors
+r
+ __.--.--._
+/  | _|  | `|
+|  |` |  |  |
+| /’--:--:__/
+|/  /      |
+(  ’ \     |
+ \    `.  /
+  |      |
+  |      |
+ 
+Player
+    --.--.
+   |  |  |
+.""|  |  |_
+|  |  |  | `|
+|  | _|  |  |
+|  |` )  |  |
+| /’  /     /
+|/   /      |
+(   ’ \     |
+\      `.  /
+ |        |
+ |        |
+
+Computer
+Computer Won. (paper beats rock)
+baoyechen@BaoyedeMacBook-Air cs101_hw1 % java RPS
+=========================================
+Welcome to the Rock-Paper-Scissors game!
+=========================================
+
+Select your element:
+		R/r - rock
+		P/p - paper
+		S/s - scissors
+P
+    --.--.
+   |  |  |
+.""|  |  |_
+|  |  |  | `|
+|  | _|  |  |
+|  |` )  |  |
+| /’  /     /
+|/   /      |
+(   ’ \     |
+\      `.  /
+ |        |
+ |        |
+
+Player
+ __.--.--._
+/  | _|  | `|
+|  |` |  |  |
+| /’--:--:__/
+|/  /      |
+(  ’ \     |
+ \    `.  /
+  |      |
+  |      |
+ 
+Computer
+Player Won. (paper beats rock)
+baoyechen@BaoyedeMacBook-Air cs101_hw1 % java RPS
+=========================================
+Welcome to the Rock-Paper-Scissors game!
+=========================================
+
+Select your element:
+		R/r - rock
+		P/p - paper
+		S/s - scissors
+p
+    --.--.
+   |  |  |
+.""|  |  |_
+|  |  |  | `|
+|  | _|  |  |
+|  |` )  |  |
+| /’  /     /
+|/   /      |
+(   ’ \     |
+\      `.  /
+ |        |
+ |        |
+
+Player
+."".   ."",
+|  |  /  /
+|  | /  /
+|  |/ .--._
+|    _|  | `|
+|  /` )  |  |
+| /  /’--:__/
+|/  /      |
+(  ’ \     |
+ \    `.  /
+  |      |
+  |      |
+
+Computer
+Computer Won. (scissors beats paper)
+baoyechen@BaoyedeMacBook-Air cs101_hw1 % java RPS
+=========================================
+Welcome to the Rock-Paper-Scissors game!
+=========================================
+
+Select your element:
+		R/r - rock
+		P/p - paper
+		S/s - scissors
+S
+."".   ."",
+|  |  /  /
+|  | /  /
+|  |/ .--._
+|    _|  | `|
+|  /` )  |  |
+| /  /’--:__/
+|/  /      |
+(  ’ \     |
+ \    `.  /
+  |      |
+  |      |
+
+Player
+    --.--.
+   |  |  |
+.""|  |  |_
+|  |  |  | `|
+|  | _|  |  |
+|  |` )  |  |
+| /’  /     /
+|/   /      |
+(   ’ \     |
+\      `.  /
+ |        |
+ |        |
+
+Computer
+Player Won. (scissors beats paper)
+baoyechen@BaoyedeMacBook-Air cs101_hw1 % java RPS
+=========================================
+Welcome to the Rock-Paper-Scissors game!
+=========================================
+
+Select your element:
+		R/r - rock
+		P/p - paper
+		S/s - scissors
+s
+."".   ."",
+|  |  /  /
+|  | /  /
+|  |/ .--._
+|    _|  | `|
+|  /` )  |  |
+| /  /’--:__/
+|/  /      |
+(  ’ \     |
+ \    `.  /
+  |      |
+  |      |
+
+Player
+."".   ."",
+|  |  /  /
+|  | /  /
+|  |/ .--._
+|    _|  | `|
+|  /` )  |  |
+| /  /’--:__/
+|/  /      |
+(  ’ \     |
+ \    `.  /
+  |      |
+  |      |
+
+Computer
+Draw! No winner.
+baoyechen@BaoyedeMacBook-Air cs101_hw1 % 
